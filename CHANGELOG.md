@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.0.1] - 2026-01-08
+
+### 🐛 Fixed
+- Fixed `pubspec.yaml` repository URL mismatch to match the actual GitHub repository URL.
+
 ## [2.0.0] - 2026-01-08
 
 ### 🎉 Major Release - Complete Rewrite
