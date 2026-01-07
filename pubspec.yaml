@@ -6,9 +6,9 @@ environment:
   sdk: '>=3.0.0 <4.0.0'
   flutter: ">=3.0.0"
 
-homepage: https://github.com/example/evently
-repository: https://github.com/example/evently
-issue_tracker: https://github.com/example/evently/issues
+homepage: https://github.com/EbramWagdy1/evently
+repository: https://github.com/EbramWagdy1/evently
+issue_tracker: https://github.com/EbramWagdy1/evently/issues
 
 dependencies:
   dartz: ^0.10.1
